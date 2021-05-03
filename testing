@@ -1,1 +1,5 @@
-new file
+#!/bin/bash
+
+echo "cloning git data to jenkins server"
+echo " "
+date
